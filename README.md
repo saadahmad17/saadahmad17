@@ -1,0 +1,20 @@
+- 👋 Hi, I am Saad Ahmad
+- 🎓 Education
+  - Master's in Computer Science at LUMS Lahore, Pakistan
+- 💼 Professional Experience:
+  - 6+ years of work experience as a Software Engineer
+- 🌟 About Me
+  - Passionate about software development, data science, and machine learning
+  - Interested in Machine and Deep Learning, Data Science, LLMs, NLP, and RAG
+  - Currently learning RAG-based applications and chatbots, and fine-tuning RAG and LLMs
+  - Looking to collaborate on Generative AI areas focusing on NLP
+- ⚡ Technologies and Tools
+  - Programming Languages: Python, R, C, C++
+  - Machine Learning & Deep Learning: TensorFlow, Keras, PyTorch
+  - Generative AI & NLP: LLamaindex, OpenAI, LLM Prompt Engineering, Hugging face
+  - Data Analysis: Pandas, NumPy
+  - Version Control: Git, GitHub
+  - Development Tools: Jupyter, HTML5, CSS3, Flask, JavaScript, Node.js, React.js, Docker
+  - Cloud Platforms: Google Cloud Platform, AWS
+  - Databases: MySQL, MongoDB
+- 📫 Reach me out at saadahmad1726@gmail.com
