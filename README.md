@@ -115,13 +115,6 @@ I'm a Software Engineer with **8+ years of professional experience**, currently 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
----
 
 ## 🔬 Research Interests
 
