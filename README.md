@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0A66C2?style=flat-square&logo=briefcase&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=8A2BE2" alt="Profile Views"/>
-</p>
 
 ---
 
